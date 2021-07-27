@@ -1,2 +1,2 @@
 # Foodies
-This is a food website I created following a tutorial video. 
+This is a Restaurant website I created following a tutorial video. 
