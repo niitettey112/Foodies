@@ -149,7 +149,7 @@ nav::before{
 .hero{
     width: 100%;
     height: 100vh;
-    background: url(./images/hero.jpg) center no-repeat;
+    background: url(./images/hero-img.jpg) center no-repeat;
     background-size: cover;
     display: flex;
     align-items: center;
